@@ -1,6 +1,8 @@
 # estadisticas_campos_numericos
 IDEAScript que permite obtener campos virtuales con los detalles de estadísticas para campos numéricos
 
+Los siguientes códigos se utilizan para la creación de los campos virtuales:
+
 Nº de registros 1
 
 Nº de elementos cero 2 
